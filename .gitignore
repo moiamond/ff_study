@@ -1,0 +1,12 @@
+.DS_Store
+
+**/Debug
+**/Release
+
+**/*.db
+**/*.suo
+**/*.opendb
+
+**/*.user
+
+**/*.ipch
